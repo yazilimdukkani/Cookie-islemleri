@@ -11,7 +11,7 @@ public $db,$sql,$sorgu;
 
 public function __construct(){
 /*
-    $this->db = new PDO('mysql:host=localhost;dbname=haber','root','flamenko86');
+    $this->db = new PDO('mysql:host=localhost;dbname=haber','root','');
   
     $this->db->exec("SET NAMES utf8");
 
